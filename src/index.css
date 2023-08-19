@@ -1,8 +1,23 @@
+:root{
+  --orange-color: #DA722C;
+  --blue-color: #057ADA;
+  --darkblue-color: #023047;
+  --lightblue-color: #6F7DFB;
+  --lightwhite-color: #E8F7FB;
+  --dark-color: #070917;
+
+
+}
+
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
